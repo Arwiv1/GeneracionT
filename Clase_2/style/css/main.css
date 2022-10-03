@@ -1,0 +1,27 @@
+.pan{
+    width: 325px;
+    height: 75px;
+    background-color:burlywood;
+    margin-left: 25px;
+}
+
+.salchicha{
+    width: 375px;
+    height: 75px;
+    border-radius: 45px;
+    background-color: brown;
+}
+
+.superior{
+    border-radius: 45px 45px 20px 20px;
+    border-color: rgba(0, 0, 0, 0.637);
+    border-width: 10px;
+    border-bottom-style: inset;
+}
+
+.inferior{
+    border-radius: 20px 20px 45px 45px;
+    border-color: rgba(0, 0, 0, 0.637);
+    border-width: 10px;
+    border-top-style: outset;
+}

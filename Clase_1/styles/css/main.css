@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+body{
+    background-image: url(../images/Fondo_Star_Wars.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    backdrop-filter: brightness(40%);
+    text-align: center;
+}
+
+.Imperio{
+    background-color: red;
+}
+
+.Rebeldes{
+    background-color: blue;
+}
+
+#Darth-Vader{
+    font-size: 2rem;
+}
+
+#Luke{
+    font-style: italic;
+}
+
+.Soldados{
+    border-style: dashed;
+    letter-spacing: 5px;
+}
+
+.Apoyo{
+    text-align: center;
+}
+
+.Naves{
+    text-transform: uppercase;
+}
+
+.Droides{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
